@@ -1,0 +1,11 @@
+### **Added / 追加**
+
+- [Modpack Update Checker](https://www.curseforge.com/minecraft/mc-mods/modpack-update-checker)
+
+### **Modified / 変更**
+
+- [Nyf's Modpack Version Check](https://www.curseforge.com/minecraft/mc-mods/nyfs-modpack-version-check) was removed due to a conflict with [ESSENTIAL Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod).
+
+---
+
+- [Nyf's Modpack Version Check](https://www.curseforge.com/minecraft/mc-mods/nyfs-modpack-version-check) は [ESSENTIAL Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod) との競合による不具合があったため、削除しました。
