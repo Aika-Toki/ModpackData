@@ -1,105 +1,105 @@
 {
-	"schemaVersion": 1,
 	"hotfixesFormat": null,
+	"schemaVersion": 1,
 	"versions": [
 		{
-			"id": "1.20.1-1.1.0",
-			"releasedAt": 1709579580000,
-			"promotions": {
-				"downloads": {
-					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5157863"
-				}
-			}
-		},
-		{
-			"id": "1.20.1-1.0.9",
-			"releasedAt": 1709572260000,
-			"promotions": {
-				"downloads": {
-					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5157577"
-				}
-			}
-		},
-		{
-			"id": "1.20.1-1.0.8",
-			"releasedAt": 1709547420000,
-			"promotions": {
-				"downloads": {
-					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5156773"
-				}
-			}
-		},
-		{
-			"id": "1.20.1-1.0.7",
-			"releasedAt": 1709544960000,
-			"promotions": {
-				"downloads": {
-					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5156730"
-				}
-			}
-		},
-		{
-			"id": "1.20.1-1.0.6",
-			"releasedAt": 1709215080000,
-			"promotions": {
-				"downloads": {
-					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5146096"
-				}
-			}
-		},
-		{
-			"id": "1.20.1-1.0.5",
-			"releasedAt": 1709029800000,
-			"promotions": {
-				"downloads": {
-					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5140142"
-				}
-			}
-		},
-		{
-			"id": "1.20.1-1.0.4",
-			"releasedAt": 1708688160000,
-			"promotions": {
-				"downloads": {
-					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5130230"
-				}
-			}
-		},
-		{
-			"id": "1.20.1-1.0.3",
-			"releasedAt": 1708438080000,
-			"promotions": {
-				"downloads": {
-					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5123253"
-				}
-			}
-		},
-		{
-			"id": "1.20.1-1.0.2",
-			"releasedAt": 1708433640000,
-			"promotions": {
-				"downloads": {
-					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5123154"
-				}
-			}
-		},
-		{
-			"id": "1.20.1-1.0.1",
-			"releasedAt": 1708344780000,
-			"promotions": {
-				"downloads": {
-					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5120309"
-				}
-			}
-		},
-		{
 			"id": "1.20.1-1.0.0",
-			"releasedAt": 1707930840000,
 			"promotions": {
 				"downloads": {
 					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5107910"
 				}
-			}
+			},
+			"releasedAt": 1707930840000
+		},
+		{
+			"id": "1.20.1-1.0.1",
+			"promotions": {
+				"downloads": {
+					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5120309"
+				}
+			},
+			"releasedAt": 1708344780000
+		},
+		{
+			"id": "1.20.1-1.0.2",
+			"promotions": {
+				"downloads": {
+					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5123154"
+				}
+			},
+			"releasedAt": 1708433640000
+		},
+		{
+			"id": "1.20.1-1.0.3",
+			"promotions": {
+				"downloads": {
+					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5123253"
+				}
+			},
+			"releasedAt": 1708438080000
+		},
+		{
+			"id": "1.20.1-1.0.4",
+			"promotions": {
+				"downloads": {
+					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5130230"
+				}
+			},
+			"releasedAt": 1708688160000
+		},
+		{
+			"id": "1.20.1-1.0.5",
+			"promotions": {
+				"downloads": {
+					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5140142"
+				}
+			},
+			"releasedAt": 1709029800000
+		},
+		{
+			"id": "1.20.1-1.0.6",
+			"promotions": {
+				"downloads": {
+					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5146096"
+				}
+			},
+			"releasedAt": 1709215080000
+		},
+		{
+			"id": "1.20.1-1.0.7",
+			"promotions": {
+				"downloads": {
+					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5156730"
+				}
+			},
+			"releasedAt": 1709544960000
+		},
+		{
+			"id": "1.20.1-1.0.8",
+			"promotions": {
+				"downloads": {
+					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5156773"
+				}
+			},
+			"releasedAt": 1709547420000
+		},
+		{
+			"id": "1.20.1-1.0.9",
+			"promotions": {
+				"downloads": {
+					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5157577"
+				}
+			},
+			"releasedAt": 1709572260000
+		},
+		{
+			"id": "1.20.1-1.1.0",
+			"promotions": {
+				"downloads": {
+					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5157863"
+				}
+			},
+			"releasedAt": 1709579580000
 		}
 	]
 }
