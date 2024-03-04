@@ -1,0 +1,7 @@
+- [Crafting Station: JEI Edition](https://www.curseforge.com/minecraft/mc-mods/crafting-station-jei-edition), [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) Added.
+This allows us to support more recipes.
+
+---
+
+- [Crafting Station: JEI Edition](https://www.curseforge.com/minecraft/mc-mods/crafting-station-jei-edition), [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) を追加しました。
+これにより、より多くのレシピをサポートするようになりました。

@@ -1,0 +1,7 @@
+*   MCPitanLib, Simple Uncrafting Table error causing it not to start has been fixed.
+*   Fixed a crash caused by a conflict between Skin Layers 3D and ESSENTIAL Mod.
+
+* * *
+
+*    MCPitanLib, Simple Uncrafting Table のエラーが原因で起動しない問題を修正しました。
+*    Skin Layers 3D と ESSENTIAL Mod の競合が原因でクラッシュする問題を修正しました。
