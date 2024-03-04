@@ -1,5 +1,15 @@
 {
 	"schemaVersion": 1,
 	"hotfixesFormat": null,
-	"versions": []
+	"versions": [
+		{
+			"id": "1.20.1-1.0.9",
+			"releasedAt": 1709572260,
+			"promotions": {
+				"downloads": {
+					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5157577"
+				}
+			}
+		}
+	]
 }

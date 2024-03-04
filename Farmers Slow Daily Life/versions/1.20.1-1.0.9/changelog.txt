@@ -1,0 +1,12 @@
+### **Added / 追加** 
+- [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) 
+- [JEITweaker](https://www.curseforge.com/minecraft/mc-mods/jeitweaker)
+
+### **Modified / 変更**
+- Added craft recipes for [Cagerium](https://www.curseforge.com/minecraft/mc-mods/cagerium).
+- Craft recipes for some Mob spawn eggs have been added. Please post any other Mob spawn egg recipes you need in the comments.
+
+---
+
+- [Cagerium](https://www.curseforge.com/minecraft/mc-mods/cagerium) のクラフトレシピを追加しました。
+- 一部Mobのスポーンエッグのクラフトレシピを追加しました。その他に必要なMobのスポーンエッグのレシピはコメントに投稿してください。
