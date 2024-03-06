@@ -109,6 +109,15 @@
 				}
 			},
 			"releasedAt": 1709736120000
+		},
+		{
+			"id": "1.20.1-1.1.2",
+			"promotions": {
+				"downloads": {
+					"curseforge": "https://www.curseforge.com/minecraft/modpacks/farmers-slow-daily-life/download/5162428"
+				}
+			},
+			"releasedAt": 1709740740000
 		}
 	]
 }
