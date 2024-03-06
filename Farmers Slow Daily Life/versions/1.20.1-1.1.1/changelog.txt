@@ -1,0 +1,13 @@
+### **Added / 追加**
+
+- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
+- [Planting dirt for saplings](https://www.curseforge.com/minecraft/mc-mods/planting-dirt-for-saplings)
+- [Wall-Jump TXF](https://www.curseforge.com/minecraft/mc-mods/wall-jump-txf)
+
+### **Modified / 変更**
+
+- [Constant Music](https://www.curseforge.com/minecraft/mc-mods/constant-music) and [Biome Music](https://www.curseforge.com/minecraft/mc-mods/biome-music) were removed due to a conflict with [Dynamic Music Updated](https://www.curseforge.com/minecraft/mc-mods/dynamic-music-updated).
+
+---
+
+- [Constant Music](https://www.curseforge.com/minecraft/mc-mods/constant-music) と [Biome Music](https://www.curseforge.com/minecraft/mc-mods/biome-music) は [Dynamic Music Updated](https://www.curseforge.com/minecraft/mc-mods/dynamic-music-updated) との競合があったため削除しました。
